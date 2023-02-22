@@ -68,15 +68,13 @@ header {
 }
 #me{
     background-color: antiquewhite;
-}
-.picture {
-    width: 300px;
 
-    flex-shrink: 0;
-    
 }
 @media only screen and (max-width: 600px) {
     .me-container {
+      flex-direction: column;
+    }
+   nav a {
       flex-direction: column;
     }
   }
