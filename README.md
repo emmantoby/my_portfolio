@@ -22,7 +22,7 @@ Click the button of your choice according to their labels and your lucky number 
 
 ### **Technologies**
 
-1. html
++ html
 
 + css
 
