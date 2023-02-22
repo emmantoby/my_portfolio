@@ -75,7 +75,7 @@ header {
       flex-direction: column;
     }
    nav a {
-      display: flex;
+      color: pink;
       flex-direction: column;
       text align: right;
     }
