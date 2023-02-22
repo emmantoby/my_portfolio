@@ -75,8 +75,9 @@ header {
       flex-direction: column;
     }
    .links{
-      color: pink;
       flex-direction: column;
       text align: right;
     }
+   nav a{
+      color: pink;
   }
