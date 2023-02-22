@@ -1,6 +1,6 @@
 # **My Portfolio Website**
 
-This website is created by me to store my works in web development and to showcase it to the entire World.
+This website was created by me to store my works in web development and to showcase it to the entire World.
 
 ## **Features Of my portfolio website**
 
