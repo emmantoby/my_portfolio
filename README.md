@@ -17,7 +17,7 @@ It contains four major sections namely
 
 ## **How To Use The Get Lucky Numbers Buttons**
 
-Click the button of your choice according to their labels and your lucky number will be displayed below the clicked button. You will need to reload the browser to get a new sets of lucky buttons especially if the computer repeats two numbers in the output on the screen.
+Click the button of your choice according to their labels and your lucky number will be displayed below the clicked button. You will need to reload the browser to get a new set of lucky buttons especially if the computer repeats two numbers in the output on the screen.
 
 
 ### **Technologies**
