@@ -22,6 +22,9 @@ html{
 
 @media only screen and (max-width: 895px) {
     img{
-        width: 50%;
+        width: 200px;
     }
+    html {
+        font-size: 16px;
+}
 }
