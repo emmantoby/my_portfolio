@@ -1,0 +1,21 @@
+html{
+    scroll-behavior: smooth;
+    font-family: "Roboto", sans-serif; 
+    font-size: 16px;
+ }
+
+ img{
+    width: 300px;
+ }
+ body{
+    background-color: green
+ }
+ h1{
+    color: white
+
+ }
+ span{
+    color: gold;
+    text-decoration:underline;
+    font-weight: bold;
+ }
