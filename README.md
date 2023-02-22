@@ -2,14 +2,18 @@
 
 This website was created by me to store my works in web development and to showcase it to the entire World.
 
-## **Features Of my portfolio website**
+## **Features Of my Portfolio Website**
 
 It contains four major sections namely
-+Meet Me which is an introductory part.
-+My Projects section for current and upcoming projects.
-+Tech Skills section showcasing my current web development skills.
-+Contact Me section.
-+In addition to the above, the Meet Me section contains three(3) buttons for choosing lucky numbers for most popular lotteries. You are free to visit my website and pick your lucky numbers.
++ Meet Me which is an introductory part.
+ 
++ My Projects section for current and upcoming projects.
+
++ Tech Skills section showcasing my current web development skills.
+ 
++ Contact Me section.
+
++ In addition to the above, the Meet Me section contains three(3) buttons for choosing lucky numbers for most popular lotteries. You are free to visit my website and pick your lucky numbers.
 
 ## **How To Use The Get Lucky Numbers Buttons**
 
@@ -18,7 +22,10 @@ Click the button of your choice according to their labels and your lucky number 
 
 ### **Technologies**
 
-+html
-+css
-+Javascript
-+git
+1. html
+
++ css
+
++ Javascript
+
++ git
